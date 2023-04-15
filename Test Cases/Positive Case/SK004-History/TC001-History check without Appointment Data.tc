@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC001-History check without Appointment Data</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c8f4ed37-eb6a-435f-adaa-8963bacac177</testCaseGuid>
+</TestCaseEntity>

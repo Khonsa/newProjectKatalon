@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>textarea_Comment_comment</name>
+   <name>textarea_comment</name>
    <tag></tag>
    <elementGuidId>60c4c939-a293-4386-bcf8-4e5af6b02879</elementGuidId>
    <selectorCollection>

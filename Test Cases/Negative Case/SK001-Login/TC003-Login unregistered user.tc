@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC003-Login unregistered user</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ae6d008f-6dca-4aea-af55-6a2512c4c3e1</testCaseGuid>
+</TestCaseEntity>
